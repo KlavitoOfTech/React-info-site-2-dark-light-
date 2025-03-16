@@ -1,20 +1,42 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
-```
-npm install
-npm run build # or watch to rebuild on change
-open index.html
-```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
-## About Scrimba
+### **React Info Site (Dark/Light Mode)**
+A simple React-based information site with dark and light mode functionality.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Features
+- 🌇 **Dark/Light Mode Toggle**
+- ⚛️ **Built with React**
+- 🎨 **Styled for a Clean UI**
+- 📱 **Responsive Design**
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/KlavitoOfTech/React-info-site-2-dark-light-.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd React-info-site-2-dark-light-
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
 
-Happy Coding!
+## 🏠 Technologies Used
+- **React.js** – Frontend framework
+- **CSS** – Styling
+- **React Hooks** – State management
+
+## 🎨 Usage
+- Click the toggle button to switch between **light and dark modes**.
+- Browse the information site with a smooth, user-friendly UI.
+
+## 📌 Contributing
+Pull requests are welcome! Feel free to submit any improvements.
+
+## 📝 License
+This project is **open-source** and available under the MIT License.
+
